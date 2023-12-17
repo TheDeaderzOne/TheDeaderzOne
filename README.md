@@ -1,6 +1,6 @@
 - 👋 Hi, I’m **TheDeaderzOne**
 - 👀 I’m interested in **learning more coding**
-- 🌱 I’m currently learning **some USACO practice problems and AP CSA**
+- 🌱 I’m currently learning **Competitive Coding (USACO)**
 - 💞️ I’m looking to collaborate on **nothin much, just a student**
 - 📫 How to reach me **nah**
 
